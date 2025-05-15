@@ -43,4 +43,7 @@ python src/main.py
   - `rag.py` - RAG implementation
   - `config.py` - Configuration
 - `tests/` - Test files
-- `requirements.txt` - Python dependencies 
+- `requirements.txt` - Python dependencies
+
+
+<img width="381" alt="스크린샷 2025-05-15 오후 9 59 19" src="https://github.com/user-attachments/assets/1a97ae71-02fc-495a-bfef-18498e96c8bb" />
